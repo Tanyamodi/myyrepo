@@ -1,0 +1,10 @@
+1. Github account
+2. Empty Repo.
+3. local system 
+      git config --global user.name "Tanyamodi"
+      git config --global user.email "mtanu0126@gmail.com"
+4.git push -u origin master
+         4.1 username? -> Tanyamodi
+         4.2 password? -> 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
+
+dummy changes
